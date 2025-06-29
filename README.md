@@ -50,3 +50,7 @@ So basically this is just used to host my, well, scripts for Roblox "games".
 - Rejoin
 - Server hop
 - Sell inventory periodically (with a slider)
+# 🔱 Disclaimer 🔱
+I do not condone the use of injectors, scripts, or any third-party tools without the game owner's consent.
+By using anything from this repository, you take full responsibility for your actions.
+I am not responsible if your account gets banned or restricted as a result of using any of the scripts hosted here. **Failure to read this disclaimer does not exempt you from its terms.**
