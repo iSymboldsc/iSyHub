@@ -3,6 +3,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/iSymboldsc/iSyHub)
 ![Open Issues](https://img.shields.io/github/issues/iSymboldsc/iSyHub)
 ![License](https://img.shields.io/github/license/iSymboldsc/iSyHub)
+![](https://img.shields.io/discord/1388837984249315409?label=Discord&logo=discord)
+![GitHub Release](https://img.shields.io/github/v/release/isymboldsc/iSyHub)
+
 
 
 # 📡 Main Purpose 📡
