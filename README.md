@@ -6,7 +6,7 @@
 
 
 ## 📡 Main Purpose 📡
-So basically this is just used to host my, well, scripts for "games".
+So basically this is just used to host my, well, scripts for Roblox "games".
 
 ---
 ## ✌️ Why this is better than everything else (obviously) ✌️
