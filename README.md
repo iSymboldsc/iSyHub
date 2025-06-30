@@ -40,7 +40,7 @@ So basically this is just used to host my, well, scripts for Roblox "games".
 # Current Scripts
 
 ## Grow A Garden
-<a href="Scripts/GrowAGarden.luau">
+<a href="Scripts/GrowAGarden.luaa">
   <img alt="Static Badge" src="https://img.shields.io/badge/File-Grow_A_Garden-blue">
 </a>
 
@@ -50,6 +50,16 @@ So basically this is just used to host my, well, scripts for Roblox "games".
 - Rejoin
 - Server hop
 - Sell inventory periodically (with a slider)
+
+## Blox Fruits
+<a href="Scripts/BloxFruits.lua">
+  <img alt="Static Badge" src="https://img.shields.io/badge/File-Blox_Fruits-blue">
+</a>
+
+### Features
+- Auto attack (kinda broken, don't recommend using).
+**Will add more features.**
+
 # 🔱 Disclaimer 🔱
 I do not condone the use of injectors, scripts, or any third-party tools without the game owner's consent.
 By using anything from this repository, you take full responsibility for your actions.
